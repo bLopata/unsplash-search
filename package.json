@@ -1,0 +1,31 @@
+{
+  "name": "unsplash-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "blob": "0.0.4",
+    "cheerio": "^1.0.0-rc.2",
+    "eslint": "^5.3.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "unsplash-js": "^4.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bLopata/nasa-scrubber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bLopata/nasa-scrubber/issues"
+  },
+  "homepage": "https://github.com/bLopata/nasa-scrubber#readme",
+  "devDependencies": {},
+  "description": ""
+}
